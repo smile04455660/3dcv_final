@@ -11,7 +11,7 @@ Required packages are list in `requirements.txt`. To determine how to install Py
 
 
 ## File structure
-Organize files like
+Down load the pretrained models from [here](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/yuanly_connect_hku_hk/EkWESLayIVdEov4YlVrRShQBkOVTJwgK0bjF7chFg2GrBg?e=Y8UpXu) and organize files like this
 ```
 Gen6D
 |-- data
