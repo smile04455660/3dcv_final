@@ -26,3 +26,9 @@ Gen6D
 
 ## Custom object
 follow [custom_object.md](custom_object.md)
+
+## How to execute
+Once the data is present, run the command like,
+```
+python python my_predict.py --cfg configs/gen6d_pretrain.yaml --database custom/${database_name} --num 1 --std 2.5
+```
